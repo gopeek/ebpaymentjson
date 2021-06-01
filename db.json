@@ -1,0 +1,24 @@
+{
+    "paymentList": [
+        {
+            "isPayable": true,
+            "invoiceNumber": "901G1002092r",
+            "accountNo":"429000395533",
+            "invoiceType":"CBILL",
+            "amountDue":500.00,
+            "dueDate":"15/02/2019",
+            "totalDue":1000.00
+            
+        },
+        {
+            "isPayable": true,
+            "invoiceNumber": "901G1002092r",
+            "accountNo":"429000395533",
+            "invoiceType":"CBILL",
+            "amountDue":500.00,
+            "dueDate":"15/02/2019",
+            "totalDue":1000.00
+        }
+    ],
+    "grandTotal": 3000.00
+}
